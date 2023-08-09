@@ -1,5 +1,6 @@
-import 'package:ca_loan_calculator/app/presentation/values/payment_type.dart';
 import 'package:flutter/cupertino.dart';
+
+import 'package:ca_loan_calculator/app/domain/values/values.dart';
 
 class PaymentTypeSelector extends StatelessWidget {
   final ValueChanged<PaymentType> onValueChanged;

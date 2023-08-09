@@ -1,7 +1,7 @@
-import 'package:ca_loan_calculator/app/presentation/values/payment_type.dart';
 import 'package:flutter/cupertino.dart';
 
-import '../../../../core/values/constants.dart';
+import 'package:ca_loan_calculator/core/values/constants.dart';
+import 'package:ca_loan_calculator/app/domain/values/values.dart';
 
 class CalculatorViewModel extends ChangeNotifier {
 

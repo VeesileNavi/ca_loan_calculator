@@ -1,10 +1,10 @@
 import 'dart:math';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:ca_loan_calculator/app/presentation/values/payment_type.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import '../../../core/values/constants.dart';
+import 'package:ca_loan_calculator/core/values/constants.dart';
+import 'package:ca_loan_calculator/app/domain/values/values.dart';
 
 part 'calculator_event.dart';
 
